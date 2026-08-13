@@ -24,8 +24,8 @@ Follow these steps to install the application.
 
 
 <h2>🧰 Technologies</h2>
-- PowerShell
-- Batchfile<br>
+- PowerShell<br>
+- Batchfile
 
 <h2>📄 Licens</h2>
 This code is licensed under the GNU Affero General Public License v3.0.
