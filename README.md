@@ -28,7 +28,7 @@ Follow these steps to install the application.
 - Batchfile<br>
 
 <h2>📄 Licens</h2>
-This code is licensed under the Apache-2.0 license - see <a href="[https://github.com/kslt/monitoring-service#Apache-2.0-1-ov-file](https://github.com/kslt/clean-old-docx/tree/main?tab=AGPL-3.0-1-ov-file)">LICENSE-file</a>
+This code is licensed under the GNU Affero General Public License v3.0 - see <a href="https://github.com/kslt/clean-old-docx/tree/main?tab=AGPL-3.0-1-ov-file">LICENSE-file</a>
 
 <h2>🤝 Contribute</h2>
 By make an issue or a pull request or just contact me with tips or feedback. :) 
