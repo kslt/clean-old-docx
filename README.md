@@ -7,10 +7,10 @@ THANKS TO:
 A had a from Google Gemini in the making of this project.
 
 <h2>🛠️ Functions</h2>
-    ✅ Startup dialog with welcome message
-    ✅ List of files that the script wants to remove
-    ✅ Yes/No question
-    ✅ You must press enter to exit the script
+    ✅ Startup dialog with welcome message<br>
+    ✅ List of files that the script wants to remove<br>
+    ✅ Yes/No question<br>
+    ✅ You must press enter to exit the script<br>
 
 <h2>🚀 Installation and ⚙️ config:</h2>
 Follow these steps to install the application.
